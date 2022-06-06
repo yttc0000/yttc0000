@@ -1,4 +1,4 @@
 ### Hello
 ## I study in NCU
-###major in mis###
+### major in mis###
 *nice to meet you*
